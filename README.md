@@ -4,7 +4,7 @@ This repository implements Multi-tasking deconvolutional single shot detector (M
 
 ### Train:
 
-This package supports pascal voc and coco dataset formats. To initiate the training please use the below command.
+This package supports pascal voc and coco dataset formats. To initiate the training, please use the below command.
 
  > sh scripts/resnet101_mt_dssd320_voc0712_m2cai_single_gpu.sh
  
