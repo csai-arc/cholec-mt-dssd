@@ -1,0 +1,7 @@
+torchvision>=0.2.0
+Pillow
+tqdm
+yacs
+vizer
+tensorboardX
+pycocotools
