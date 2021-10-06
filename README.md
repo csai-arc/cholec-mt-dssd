@@ -40,4 +40,4 @@ Surgical Phase vs tools illustration is given below:
 
 
 
-For trained network models please contact saipradeep.chakka@iiitb.ac.in
+For trained network models please contact the author.
