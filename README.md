@@ -11,31 +11,30 @@ This package supports pascal voc and coco dataset formats. To initiate the train
 ### Architecture Overview:
 
 Utilized MT-DSSD architecture overview is given here.
-![Alt text](/evaluation_results/Network_architecture.png?raw=true)
-
+<img src="/evaluation_results/Network_architecture.png?" width="70%" >
 
 ### Results:
 
 Sample results on cholecystectomy is given below:
-![Alt text](/evaluation_results/results.png?raw=true)
+<img src="/evaluation_results/results.png?" width="70%" >
 
 Confusion matrix of surgical tool detection on m2cai16-tool-location dataset is given below:
-![Alt text](/evaluation_results/confusion_matrix.png?raw=true)
+<img src="/evaluation_results/confusion_matrix.png?" width="70%" >
 
 Tool wise mAP of surgical tool detection on m2cai16-tool-location dataset is given below:
-![Alt text](/evaluation_results/tool_detections_map.jpg?raw=true)
+<img src="/evaluation_results/tool_detections_map.jpg?" width="40%" >
 
 Surgical tool detection mAP on m2cai16-tool-location dataset is compared with SOTA below:
-![Alt text](/evaluation_results/tool_detections_comparison.jpg?raw=true)
+<img src="/evaluation_results/tool_detections_comparison.jpg?" width="40%" >
 
 Surgical tool presence vs ground truth time progression comparison is given below.
-![Alt text](/evaluation_results/tools_vs_time.png?raw=true)
+<img src="/evaluation_results/tools_vs_time.png?" width="70%" >
 
 Surgical Phase vs time plot is given below:
-![Alt text](/evaluation_results/phase_time.png?raw=true)
+<img src="/evaluation_results/phase_time.png?" width="70%" >
 
 Surgical Phase vs tools illustration is given below:
-![Alt text](/evaluation_results/phase_vs_tools.png?raw=true)
+<img src="/evaluation_results/phase_vs_tools.png?" width="70%" >
 
 
 
