@@ -1,0 +1,8 @@
+mAP: 0.9192
+grasper         : 0.8989
+bipolar         : 0.9081
+hook            : 1.0000
+scissors        : 0.9091
+clipper         : 0.9076
+irrigator       : 0.9079
+specimenbag     : 0.9026
