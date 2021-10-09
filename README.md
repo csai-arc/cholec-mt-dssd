@@ -34,7 +34,7 @@ Surgical Phase vs time plot is given below:
 <img src="/evaluation_results/phase_time.png?" width="70%" >
 
 Surgical Phase vs tools illustration is given below:
-<img src="/evaluation_results/phase_vs_tools.png?" width="90%" >
+<img src="/evaluation_results/phase_vs_tools.PNG?" width="90%" >
 
 
 
