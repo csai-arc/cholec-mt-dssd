@@ -11,7 +11,7 @@ This package supports pascal voc and coco dataset formats. To initiate the train
 ### Architecture Overview:
 
 Utilized MT-DSSD architecture overview is given here.
-<img src="/evaluation_results/Network_architecture.png?" width="70%" >
+<img src="/evaluation_results/network_architecture.PNG?" width="90%" >
 
 ### Results:
 
@@ -34,7 +34,7 @@ Surgical Phase vs time plot is given below:
 <img src="/evaluation_results/phase_time.png?" width="70%" >
 
 Surgical Phase vs tools illustration is given below:
-<img src="/evaluation_results/phase_vs_tools.png?" width="70%" >
+<img src="/evaluation_results/phase_vs_tools.png?" width="90%" >
 
 
 
